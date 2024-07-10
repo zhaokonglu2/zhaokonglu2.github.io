@@ -11,8 +11,8 @@ I am a first-year graduate student in Computer Science and Technology at Beijing
 - **Duration:** September 2019 - June 2023
 
 ## Research Experience
-- **Paper:**
-1. Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. Accepted for oral presentation at the 2024 International Conference on Intelligent Computing (CCF-C, Oral).
+**Selected Pub:**
+- Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. Accepted for oral presentation at the 2024 International Conference on Intelligent Computing (CCF-C, Oral).
 
 ## Project Experience
 ### Project: Fast Reception Robot Based on Deep Learning
