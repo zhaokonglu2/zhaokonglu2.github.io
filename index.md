@@ -1,47 +1,43 @@
-# 个人主页
+# Personal Homepage
 
-## 姓名
-陈浩权
+## Name
+Chen Haoquan
 
-## 专业
-计算机科学与技术
+## Major
+Computer Science and Technology
 
-## 简介
-本人北京理工大学计算机科学与技术专业研一在读，在校期间多次获得学业奖学金，以及北京理工大学优秀学生和优秀毕业设计等荣誉。本人具有CV和NLP相关的理论和项目经验，已有文章被CCF-C类会议接收为Oral。通过英语六级，可适应全英文工作环境并有相关经历。本人性格积极乐观，擅长与人沟通，学习能力和自驱力强，具有快速适应性和抗压性。
+## Introduction
+I am a first-year graduate student in Computer Science and Technology at Beijing Institute of Technology. Throughout my academic journey, I have been awarded multiple scholarships and recognized as an Outstanding Student and for my Outstanding Graduation Project at BIT. I possess solid theoretical knowledge and practical experience in computer vision (CV) and natural language processing (NLP), with a paper accepted for oral presentation at a CCF-C conference. I have passed the CET-6 exam and am comfortable working in an English-speaking environment. I am an optimistic individual with excellent communication skills, a strong aptitude for learning, self-motivation, adaptability, and resilience under pressure.
 
-## 教育背景
-### 北京理工大学大学 硕士
-- **专业：** 计算机科学与技术
-- **时间：** 2023年9月 - 至今
+## Educational Background
+### Master’s Degree, Beijing Institute of Technology
+- **Major:** Computer Science and Technology
+- **Duration:** September 2023 - Present
 
-- ### 北京理工大学大学 学士
-- **专业：** 计算机科学与技术
-- **时间：** 2019年9月 - 2023年6月
+### Bachelor’s Degree, Beijing Institute of Technology
+- **Major:** Computer Science and Technology
+- **Duration:** September 2019 - June 2023
 
-## 科研经历
-- Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. Accepted by 2024 International Conference on Intelligent Computing (CCF-C, Oral).
+## Research Experience
+- **Paper:** Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. Accepted for oral presentation at the 2024 International Conference on Intelligent Computing (CCF-C).
 
-## 项目经历
-### 项目名称：基于深度学习的快速接诊机器人
-- **描述：** 与北京积水潭医院合作，实现集成身份识别，语音问答和数据交互的接诊系统。
-- **技术栈：** ResNet+Transformer模型，Python语言和Pytorch框架。
-- **贡献：** 作为负责人统筹人员合作和项目进度，编写基础框架的代码。
-- **效果：** 在测试场景下可以做到实时投入使用，身份识别准确率在95%以上。
+## Project Experience
+### Project: Fast Reception Robot Based on Deep Learning
+- **Description:** Collaborated with Beijing Jishuitan Hospital to develop a reception system integrating identity recognition, voice interaction, and data processing.
+- **Tech Stack:** ResNet+Transformer model, Python, Pytorch framework.
+- **Role:** Led the team, coordinated collaboration and project progress, and developed the core framework code.
+- **Outcome:** Achieved real-time application in test scenarios with an identity recognition accuracy of over 95%.
 
-### 项目名称：即时聊天软件
-- **描述：** 构建类似QQ的即时聊天软件，支持好友关系，群组聊天，文件传输等功能。
-- **技术栈：** Socket，Linux系统编程。
-- **贡献：** 作为负责人统筹人员合作和项目进度，并参与实现部分功能(添加好友，文件传输等)。
+### Project: Instant Messaging Software
+- **Description:** Developed an instant messaging application similar to QQ, supporting features such as friend management, group chats, and file transfers.
+- **Tech Stack:** Socket programming, Linux system programming.
+- **Role:** Led the team, coordinated collaboration and project progress, and contributed to implementing key features (e.g., adding friends, file transfers).
+- **Repository:** https://gitee.com/chadwick/team-of-three
 
-## 技能
-- **编程语言：** Python, C++, Java
-- **工具和技术：** OpenCV, Pytorch, TensorFlow, Git, Linux
+## Skills
+- **Programming Languages:** Python, C/C++, Java
+- **Tools and Technologies:** OpenCV, Pytorch, TensorFlow, Git, Linux
 
-## 联系方式
-- **邮箱：** haoquan_c@bit.edu.cn
-- **Wechat：** QuanHaHQuan
-
-## 个人爱好
-- 编程
-- 读书
-- 跑步
+## Contact
+- **Email:** haoquan_c@bit.edu.cn
+- **WeChat:** QuanHaHQuan
