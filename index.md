@@ -7,7 +7,7 @@ Chen Haoquan
 Computer Science and Technology
 
 ## Introduction
-I am a first-year graduate student in Computer Science and Technology at Beijing Institute of Technology. Throughout my academic journey, I have been awarded multiple scholarships and recognized as an Outstanding Student and for my Outstanding Graduation Project at BIT. I possess solid theoretical knowledge and practical experience in computer vision (CV) and natural language processing (NLP), with a paper accepted for oral presentation at a CCF-C conference. I have passed the CET-6 exam and am comfortable working in an English-speaking environment. I am an optimistic individual with excellent communication skills, a strong aptitude for learning, self-motivation, adaptability, and resilience under pressure.
+I am a first-year graduate student in Computer Science and Technology at Beijing Institute of Technology. Throughout my academic journey, I have been awarded multiple scholarships and recognized as an Outstanding Student and  Outstanding Graduation Project at BIT. I possess solid theoretical knowledge and practical experience in computer vision (CV) and natural language processing (NLP). I have passed the CET-6 exam and am comfortable working in an English-speaking environment. I am an optimistic individual with excellent communication skills, a strong aptitude for learning, self-motivation, adaptability, and resilience under pressure.
 
 ## Educational Background
 ### Master’s Degree, Beijing Institute of Technology
