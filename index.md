@@ -1,5 +1,6 @@
 ## Intro
-I am a first-year graduate student in Computer Science and Technology at Beijing Institute of Technology. Throughout my academic journey, I have been awarded multiple scholarships and recognized as an Outstanding Student at BIT. I possess solid theoretical knowledge and practical experience in computer vision (CV) and natural language processing (NLP). I am comfortable working in an English-speaking environment with mutiple experience before. I am an optimistic individual with excellent communication skills, a strong aptitude for learning, self-motivation, adaptability, and resilience under pressure.
+I am a first-year graduate student in Computer Science and Technology at Beijing Institute of Technology. Throughout my academic journey, I have been awarded multiple scholarships and recognized as an Outstanding Student at BIT. 
+I possess solid theoretical knowledge and practical experience in computer vision (CV) and natural language processing (NLP). I am comfortable working in an English-speaking environment with mutiple experience before. I am an optimistic individual with excellent communication skills, a strong aptitude for learning, self-motivation, adaptability, and resilience under pressure.
 
 ## Educational Background
 ### Master’s Degree, Beijing Institute of Technology
@@ -28,8 +29,9 @@ I am a first-year graduate student in Computer Science and Technology at Beijing
 - **Repository:** https://gitee.com/chadwick/team-of-three
 
 ## Skills
-- **Programming Languages:** Python, C/C++, Java
-- **Tools and Technologies:** OpenCV, Pytorch, TensorFlow, Git, Linux
+- **Program Languages:** Python(Numpy, OpenCV, Pytorch/TensorFlow), C/C++, Java
+- **Tools and Technologies:** Linux, Git, Latex/Markdown, MS Office
+- **Tech blog:** https://blog.csdn.net/c_h_q_
 
 ## Contact
 - **Email:** haoquan_c@bit.edu.cn
