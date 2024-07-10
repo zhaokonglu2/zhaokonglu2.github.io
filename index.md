@@ -26,12 +26,13 @@ I possess solid theoretical knowledge and practical experience in computer visio
 - **Description:** Developed an instant messaging application similar to QQ, supporting features such as friend management, group chats, and file transfers.
 - **Tech Stack:** Socket and Linux system programming.
 - **Role:** Led the team, coordinated collaboration and project progress, and contributed to implementing key features (e.g., adding friends, file transfers).
-- **Repository:** https://gitee.com/chadwick/team-of-three
+- **Repository:** [Git Repo](https://gitee.com/chadwick/team-of-three)
 
 ## Skills
 - **Program Languages:** Python(Numpy, OpenCV, Pytorch/TensorFlow), C/C++, Java
 - **Tools and Technologies:** Linux, Git, Latex/Markdown, MS Office
-- **Tech blog:** https://blog.csdn.net/c_h_q_
+- **Tech blog:**: [CSDN-QuanHaHQuan](https://blog.csdn.net/c_h_q_)
+
 
 ## Contact
 - **Email:** haoquan_c@bit.edu.cn
