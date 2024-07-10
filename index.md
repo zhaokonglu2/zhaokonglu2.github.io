@@ -10,8 +10,8 @@ I am a first-year graduate student in Computer Science and Technology at Beijing
 - **Major:** Computer Science and Technology
 - **Duration:** September 2019 - June 2023
 - **MIT Online Project:** Computer Vision, A level
-## Research Experience
-### Selected Pub:
+  
+## Selected Pub:
 - Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. Accepted for oral presentation at the 2024 International Conference on Intelligent Computing (CCF-C, Oral).
 
 ## Project Experience
