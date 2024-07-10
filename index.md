@@ -17,13 +17,13 @@ I am a first-year graduate student in Computer Science and Technology at Beijing
 ## Project Experience
 ### Project: Fast Reception Robot Based on Deep Learning
 - **Description:** Collaborated with Beijing Jishuitan Hospital to develop a reception system integrating identity recognition, voice interaction, and data processing.
-- **Tech Stack:** ResNet+Transformer model, Python, Pytorch framework.
+- **Tech Stack:** ResNet+Transformer model, Pytorch framework.
 - **Role:** Led the team, coordinated collaboration and project progress, and developed the core framework code.
 - **Outcome:** Achieved real-time application in test scenarios with an identity recognition accuracy of over 95%.
 
 ### Project: Instant Messaging Software
 - **Description:** Developed an instant messaging application similar to QQ, supporting features such as friend management, group chats, and file transfers.
-- **Tech Stack:** Socket programming, Linux system programming.
+- **Tech Stack:** Socket and Linux system programming.
 - **Role:** Led the team, coordinated collaboration and project progress, and contributed to implementing key features (e.g., adding friends, file transfers).
 - **Repository:** https://gitee.com/chadwick/team-of-three
 
