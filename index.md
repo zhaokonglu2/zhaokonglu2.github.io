@@ -12,7 +12,7 @@ I am a first-year graduate student in Computer Science and Technology at Beijing
 
 ## Research Experience
 - **Paper:**
-- 1. Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. Accepted for oral presentation at the 2024 International Conference on Intelligent Computing (CCF-C, Oral).
+1. Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. Accepted for oral presentation at the 2024 International Conference on Intelligent Computing (CCF-C, Oral).
 
 ## Project Experience
 ### Project: Fast Reception Robot Based on Deep Learning
