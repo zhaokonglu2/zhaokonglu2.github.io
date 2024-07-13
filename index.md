@@ -14,7 +14,7 @@ I possess solid theoretical knowledge and practical experience in computer visio
 - **MIT Online Project:** Computer Vision, A level
   
 ## Selected Pub:
-- Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. Haoquan Chen, Bin Yan and Mingtao Pei, accepted at the 2024 International Conference on Intelligent Computing (CCF-C, Oral).
+- Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. Haoquan Chen, Bin Yan and Mingtao Pei, accepted by the 2024 International Conference on Intelligent Computing (CCF-C, Oral).
 
 ## Project Experience
 ### Fast Reception Robot Based on Deep Learning
