@@ -29,6 +29,11 @@ I possess solid theoretical knowledge and practical experience in computer visio
 - **Role:** Led the team, coordinated collaboration and project progress, and contributed to implementing key features (e.g., adding friends, file transfers).
 - **Repository:** [Git Repo](https://gitee.com/chadwick/team-of-three)
 
+### Intelligent agricultural robots
+- **Description:** Automatically identify and classify crops, laser weeding after positioning.
+- **Tech Stack:** Mainstream detection (YOLO) and stereoscopic matching network, Opencv and Pytorch framework.
+- **Role:** Participate in framework implementation and performance optimization..
+
 ## Skills
 - **Program Languages:** Python(Numpy, OpenCV, Pandas, Pytorch/TensorFlow), C/C++(Object Orinted Programming, OpenGL), SQL
 - **Tools and Technologies:** Linux, Git, Latex/Markdown, MS Office, PowerBI
