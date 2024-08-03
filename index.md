@@ -30,8 +30,8 @@ I possess solid theoretical knowledge and practical experience in computer visio
 - **Repository:** [Git Repo](https://gitee.com/chadwick/team-of-three)
 
 ## Skills
-- **Program Languages:** Python(Numpy, OpenCV, Pytorch/TensorFlow), C/C++, SQL
-- **Tools and Technologies:** Linux, Git, Latex/Markdown, MS Office
+- **Program Languages:** Python(Numpy, OpenCV, Pandas, Pytorch/TensorFlow), C/C++(Object Orinted Programming, OpenGL), SQL
+- **Tools and Technologies:** Linux, Git, Latex/Markdown, MS Office, PowerBI
 - **Tech blog:**: [CSDN-QuanHaHQuan](https://blog.csdn.net/c_h_q_)
 
 
