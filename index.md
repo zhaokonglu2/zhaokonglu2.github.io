@@ -35,7 +35,7 @@ I possess solid theoretical knowledge and practical experience in computer visio
 - **Role:** Participate in framework implementation and performance optimization..
 
 ## Skills
-- **Program Languages:** Python(Numpy, OpenCV, Pandas, Pytorch/TensorFlow), C/C++(Object Orinted Programming, OpenGL), SQL
+- **Program Languages:** Python(Numpy, OpenCV, Pandas, Pytorch), C/C++(Object Orinted Programming, OpenGL), SQL
 - **Tools and Technologies:** Linux, Git, Latex/Markdown, MS Office, PowerBI
 - **Tech blog:**: [CSDN-QuanHaHQuan](https://blog.csdn.net/c_h_q_)
 
