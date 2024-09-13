@@ -40,7 +40,10 @@ I possess solid theoretical knowledge and practical experience in computer visio
 ## Skills
 - **Program Languages:** Python (Numpy/OpenCV/Pytorch), C/C++ (Object-oriented programming/OpenMP), SQL
 - **Tools and Technologies:** Linux Programming, Git, Latex/Markdown, MS Office, Google Workspace
-- **Knowledge:** Familiar with classical machine learning models (SVM/RF, etc.), mainstream CV/NLP models (ViT/BERT/CLIP, etc.), large language models (LLM) and fine-tuning (GPT/llama/RAG/LoRa, etc.); Understanding of cloud platforms (Colab/Autodl/Azure), containers (Docker/Kubernetes), and Spark/Hadoop
+- **Knowledge:**
+* * Familiar with classical machine learning models (SVM/RF, etc.), mainstream CV/NLP models (ViT/BERT/CLIP, etc.)
+* * Large language models (LLM) and fine-tuning (GPT/llama/RAG/LoRa, etc.)
+* * Understanding of cloud platforms (Colab/Autodl/Azure), containers (Docker/Kubernetes), and Spark/Hadoop
 - **Tech blog:** [CSDN-QuanHaHQuan](https://blog.csdn.net/c_h_q_)
 
 ## Contact
