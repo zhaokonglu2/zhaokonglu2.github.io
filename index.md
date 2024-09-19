@@ -5,6 +5,7 @@ I possess solid theoretical knowledge and practical experience in computer visio
 
 ## Educational Background
 ### Master’s Degree, Beijing Institute of Technology
+- **Postgraduate recommendation** 
 - **Research interests:** Large Language Model, Multimodal learning & Medical Image Processing **(Beijing Key Lab of Intelligent Information Technology)**
 - **Major:** Computer Science and Technology
 - **Duration:** September 2023 - Present
