@@ -36,7 +36,7 @@ I possess solid theoretical knowledge and practical experience in computer visio
 ### Intelligent agricultural robots
 - **Description:** Automatically identify and classify crops, laser weeding after positioning.
 - **Tech Stack:** Mainstream detection (YOLO) and stereoscopic matching network, Opencv and Pytorch framework.
-- **Role:** Participate in framework implementation and performance optimization..
+- **Role:** Participate in framework implementation and performance optimization.
 
 ## Skills
 - **Program Languages:** **Python** (Numpy/OpenCV/Pytorch), **C/C++** (Object-oriented programming/OpenMP), **SQL**
