@@ -21,32 +21,32 @@ I possess solid theoretical knowledge and practical experience in computer visio
 - Article about Multi-modal Encoding and Alignment for Medical Report Generation. Submitted to Annual AAAI Conference on Artificial Intelligence, (CCF-A, under review)
 
 ## Project Experience
-### Fast Reception Robot Based on Deep Learning
-- **Description:** Collaborated with Beijing Jishuitan Hospital to develop a reception system integrating identity recognition, voice interaction, and data processing.
-- **Tech Stack:** ResNet+Transformer model, Pytorch framework.
-- **Role:** Led the team, coordinated collaboration and project progress, and developed the core framework code.
-- **Outcome:** Achieved real-time application in test scenarios with an identity recognition accuracy of over 95%.
-
 ### Instant Messaging Software
-- **Description:** Developed an instant messaging application similar to QQ, supporting features such as friend management, group chats, and file transfers.
-- **Tech Stack:** Socket and Linux system programming.
-- **Role:** Led the team, coordinated collaboration and project progress, and contributed to implementing key features (e.g., adding friends, file transfers).
+- **Description:** Build instant chat software similar to QQ, support group chat, file transfer, etc.
+- **Division of labor:** Coordinate personnel cooperation and project progress, and participate in the realization of some functions.
+- **Technical stack:** Tech stack includes Socket (C language), Linux system programming.
 - **Repository:** [Git Repo](https://gitee.com/chadwick/team-of-three)
+- 
+### Fast Reception Robot Based on Deep Learning
+- **Project description:** In cooperation with Beijing Jishuitan Hospital (Beijing Nature Foundation -7222086), to realize an admission system integrating identity recognition, 
+- **Division of labor:** Coordinate personnel cooperation and project progress, write the code of the basic framework. 
+- **Technical stack:** Tech stack includes Pytorch with the framework using ResNet+Transformer
+- **Outcome:** In the test scenario, it can be put into use in real time, and the identity accuracy rate is above 95%
 
-### Intelligent agricultural robots
-- **Description:** Automatically identify and classify crops, laser weeding after positioning.
-- **Tech Stack:** Mainstream detection (YOLO) and stereoscopic matching network, Opencv and Pytorch framework.
-- **Role:** Participate in framework implementation and performance optimization.
+### Intelligent agricultural robotssikao
+- **Project description::** School-enterprise cooperation for agricultural robots, which can locate, classify, and laser crops.
+- **Division of labor:** Developed the framework code, implemented post-processing for detection results, matching, and metric computation functions. Conducted hyperparameter tuning and designed a multi-model voting mechanism.
+- **Technical stack:**  Tech stack includes OpenCV and Pytorch, with the detection framework using YOLO.
+- **Outcome:** Reduce false negative rate (FNR) by 15% and false positive rate (FPR) by 30% in testing scenarios.
 
 ## Skills
-- **Program Languages:** **Python** (Numpy/OpenCV/Pytorch), **C/C++** (Object-oriented programming/OpenMP), **SQL**
+- **Program Languages:** **Python** (Numpy/OpenCV/Pytorch), **C/C++** (Object-oriented programming/OpenMP), **SQL**, **Java**
 - **Tools and Technologies:** Linux Programming, Git, Latex/Markdown, MS Office, Google Workspace
 - **Tech blog:** [CSDN-QuanHaHQuan](https://blog.csdn.net/c_h_q_)
 - **Knowledge:**
-  * Familiar with classical machine learning models (SVM/RF, etc.), mainstream CV/NLP models (ViT/BERT/CLIP, etc.)
+  * Familiar with classical machine learning models (SVM/RF/XGBoost, etc.), mainstream CV/NLP models (ViT/BERT/CLIP, etc.)
   * Large language models (LLM) and fine-tuning (GPT/llama/RAG/LoRa, etc.)
   * Understanding of cloud platforms (Colab/Autodl/Azure), containers (Docker/Kubernetes), and Spark/Hadoop
-
 
 ## Contact
 - **Email:** haoquan.chen724@gmail.com
