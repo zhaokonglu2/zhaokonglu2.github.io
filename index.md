@@ -22,7 +22,7 @@ I possess solid theoretical knowledge and practical experience in computer visio
 
 ## Project Experience
 ### Instant Messaging Software
-- **Description:** Build instant chat software similar to QQ, support (friend relationship/group chat/file transfer, etc.)
+- **Description:** Build instant chat software similar to QQ, support friend relationship, group chat, file transfer, etc.
 - **Division of labor:** Coordinate personnel cooperation and project progress, and participate in the realization of some functions
 - **Technical stack:** Tech stack includes Socket (C language), Linux system programming
 - **Repository:** [Git Repo](https://gitee.com/chadwick/team-of-three)
@@ -35,8 +35,8 @@ I possess solid theoretical knowledge and practical experience in computer visio
 
 ### Intelligent agricultural robotssikao
 - **Project description::** School-enterprise cooperation for agricultural robots, which can locate, classify, and laser crops
-- **Division of labor:** Developed the framework code, implemented post-processing for detection results, matching, and metric computation functions. Conducted hyperparameter tuning and designed a multi-model voting mechanism
-- **Technical stack:**  Tech stack includes OpenCV and Pytorch, with the detection framework using YOLO
+- **Division of labor:** Develop the framework code, implement post-processing for detection results, matching, and metric computation functions. Conduct hyperparameter tuning and design a multi-model voting mechanism.
+- **Technical stack:** Tech stack includes OpenCV and Pytorch, with the detection framework using YOLO
 - **Outcome:** Reduce false negative rate (FNR) by 15% and false positive rate (FPR) by 30% in testing scenarios
 
 ## Skills
