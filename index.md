@@ -28,7 +28,7 @@ I possess solid theoretical knowledge and practical experience in computer visio
 - **Repository:** [Git Repo](https://gitee.com/chadwick/team-of-three)
 
 ### Fast Reception Robot Based on Deep Learning
-- **Project description:** In cooperation with Beijing Jishuitan Hospital (Beijing Nature Foundation -7222086), to realize an admission system integrating identity recognition, 
+- **Project description:** In cooperation with Beijing Jishuitan Hospital (Beijing Nature Foundation -7222086), to realize an admission system integrating identity recognition, language conversion and data interaction.
 - **Division of labor:** Coordinate personnel cooperation and project progress, write the code of the basic framework. 
 - **Technical stack:** Tech stack includes Pytorch with the framework using ResNet+Transformer
 - **Outcome:** In the test scenario, it can be put into use in real time, and the identity accuracy rate is above 95%
