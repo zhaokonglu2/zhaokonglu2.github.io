@@ -26,7 +26,7 @@ I possess solid theoretical knowledge and practical experience in computer visio
 - **Division of labor:** Coordinate personnel cooperation and project progress, and participate in the realization of some functions.
 - **Technical stack:** Tech stack includes Socket (C language), Linux system programming.
 - **Repository:** [Git Repo](https://gitee.com/chadwick/team-of-three)
-- 
+
 ### Fast Reception Robot Based on Deep Learning
 - **Project description:** In cooperation with Beijing Jishuitan Hospital (Beijing Nature Foundation -7222086), to realize an admission system integrating identity recognition, 
 - **Division of labor:** Coordinate personnel cooperation and project progress, write the code of the basic framework. 
