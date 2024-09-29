@@ -1,5 +1,5 @@
 ## Intro
-I am a first-year graduate student in Computer Science and Technology at Beijing Institute of Technology. Throughout my academic journey, I have been awarded multiple scholarships and recognized as an Outstanding Student at BIT. 
+I am a second-year graduate student in Computer Science and Technology at Beijing Institute of Technology. Throughout my academic journey, I have been awarded multiple scholarships and recognized as an Outstanding Student at BIT. 
 
 I possess solid theoretical knowledge and practical experience in computer vision (CV) and natural language processing (NLP). I am comfortable working in an English-speaking environment with mutiple experience before. I am an optimistic individual with excellent communication skills, a strong aptitude for learning, self-motivation, adaptability, and resilience under pressure.
 
