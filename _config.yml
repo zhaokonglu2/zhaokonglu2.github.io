@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: ZHAO KongLu's homepage
 description: Nice to meet you, please bookmark this to keep an eye on my updates!
+
+# Navigation bar links.
+navigation:
+  - title: 主页 Home
+    link: /
+  - title: 其他信息 Other Information
+    link: /information.html
