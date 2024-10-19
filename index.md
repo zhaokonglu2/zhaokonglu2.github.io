@@ -17,7 +17,7 @@ I am a graduate student in MScCT+ at LingNan University.
   
 
 ## Skills
-- **Program Languages:** **Python** (Numpy/OpenCV/Pytorch), **C/C++** (Object-oriented programming/OpenMP), **SQL**, **Java**
+- **Program Languages:** **Python** , **C/C++**, **SQL**, **Java**
 - **Tools and Technologies:** Linux Programming, Git
 
 
